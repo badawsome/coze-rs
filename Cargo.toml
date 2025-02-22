@@ -1,0 +1,10 @@
+[package]
+name = "coze-rs"
+version = "0.0.1"
+edition = "2024"
+authors = ["badcw <badcw123@gmail.com>"]
+description = "[badawsome] make a cli integration, deps on clap"
+license-file = "LICENSE"
+repository = "https://github.com/badawsome/cli-rs"
+
+[dependencies]
